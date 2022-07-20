@@ -1,4 +1,4 @@
-import{s as Me,a as ue,r as V,j as D,b as Y,c as ke,L as Ie,g as Le}from"./index.608dabb1.js";const De=Me.div`
+import{s as Me,a as ue,r as V,j as D,b as Y,c as ke,L as Ie,g as Le}from"./index.28d1db13.js";const De=Me.div`
 .idea-detail-header{
     padding-top: 0.1rem;
     display:flex;
