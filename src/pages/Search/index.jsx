@@ -76,10 +76,10 @@ function Search(props) {
         <SearchShowWrapper isNone={query ? true : false}>
           <OldSearch oldSearchList={oldSearchList} />
           <SearchFind searchFindList={searchFindList} />
-          <SearchRecommend
+          {/* <SearchRecommend
             HotsearchVedioList={HotsearchVedioList}
             HotsearchGameList={HotsearchGameList}
-          />
+          /> */}
         </SearchShowWrapper>
       </SearchWrapper>
     </CSSTransition>

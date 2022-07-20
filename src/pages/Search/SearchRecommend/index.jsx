@@ -1,7 +1,6 @@
 import React,{memo} from 'react'
 import { SearchRecommendWrapper } from './style'
-import { Tabs } from 'antd-mobile'
-import { AppstoreOutline } from 'antd-mobile-icons'
+// import { Tabs } from 'antd-mobile'
 import style from '@/assets/global-style'
 
 
